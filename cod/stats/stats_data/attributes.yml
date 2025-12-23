@@ -2,3 +2,11 @@ key: attributes
 name: Attributes
 stats:
   strength: Strength
+  dexterity: Dexterity
+  stamina: Stamina
+  presence: Presence
+  manipulation: Manipulation
+  composure: Composure
+  intelligence: Intelligence
+  wits: Wits
+  resolve: Resolve

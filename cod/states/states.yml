@@ -4,3 +4,27 @@ states:
     allowed_templates: [mortal]
     chargen_selectable: true
     staff_assignable: true
+
+  sleepwalker:
+    display_name: Sleepwalker
+    allowed_templates: [mortal]
+    chargen_selectable: true
+    staff_assignable: true
+
+  proximus:
+    display_name: Proximus
+    allowed_templates: [mortal]
+    chargen_selectable: true
+    staff_assignable: true
+
+  fae_touched:
+    display_name: Fae-Touched
+    allowed_templates: [mortal]
+    chargen_selectable: true
+    staff_assignable: true
+
+  stigmatic:
+    display_name: Stigmatic
+    allowed_templates: [mortal]
+    chargen_selectable: true
+    staff_assignable: true

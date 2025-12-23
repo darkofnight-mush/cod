@@ -1,0 +1,19 @@
+key: skills
+name: Skills
+stats:
+  academics: Academics
+  athletics: Athletics
+  brawl: Brawl
+  crafts: Crafts
+  drive: Drive
+  empathy: Empathy
+  expression: Expression
+  firearms: Firearms
+  investigation: Investigation
+  larceny: Larceny
+  medicine: Medicine
+  occult: Occult
+  persuasion: Persuasion
+  stealth: Stealth
+  survival: Survival
+  weaponry: Weaponry

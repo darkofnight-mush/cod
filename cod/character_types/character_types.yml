@@ -3,3 +3,48 @@ character_types:
     display_name: Mortal
     base_template: mortal
     states: []
+
+  ghoul:
+    display_name: Ghoul
+    base_template: mortal
+    states: [ghoul]
+
+  sleepwalker:
+    display_name: Sleepwalker
+    base_template: mortal
+    states: [sleepwalker]
+
+  proximus:
+    display_name: Proximus
+    base_template: mortal
+    states: [proximus]
+
+  fae_touched:
+    display_name: Fae-Touched
+    base_template: mortal
+    states: [fae_touched]
+
+  stigmatic:
+    display_name: Stigmatic
+    base_template: mortal
+    states: [stigmatic]
+
+  vampire:
+    display_name: Vampire
+    base_template: vampire
+    states: []
+
+  mage:
+    display_name: Mage
+    base_template: mage
+    states: []
+
+  changeling:
+    display_name: Changeling
+    base_template: changeling
+    states: []
+
+  demon:
+    display_name: Demon
+    base_template: demon
+    states: []
