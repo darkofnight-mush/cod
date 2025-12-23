@@ -1,0 +1,6 @@
+states:
+  ghoul:
+    display_name: Ghoul
+    allowed_templates: [mortal]
+    chargen_selectable: true
+    staff_assignable: true

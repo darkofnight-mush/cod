@@ -1,0 +1,5 @@
+character_types:
+  mortal:
+    display_name: Mortal
+    base_template: mortal
+    states: []
